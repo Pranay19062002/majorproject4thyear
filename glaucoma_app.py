@@ -22,7 +22,7 @@ st.write("""
          """
          )
 
-st.write("1602-20-733-313 and 1602-20-733-316 Glaucoma Detection Project to predict glaucoma through fundus image of eye")
+st.write(" Glaucoma Disease Detection Project to predict glaucoma through fundus image of eye using deep learning")
 
 file = st.file_uploader("Please upload an image(jpg) file", type=["jpg"])
 
